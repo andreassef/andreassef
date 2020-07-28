@@ -1,5 +1,7 @@
 ### Hi 👋, my name is André Assef, i'm from Brazil(BR). My life's purpose is defined by searching for a way to help the humanity be better through technologies. 
+### In my free time I like to play (and watch) soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to philosophize about life with physics (🍺).
 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipefialho_)](https://twitter.com/andreassef)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/andr%C3%A9-assef-261215197/)
 <!--
 **andreassef/andreassef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
