@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi 👋, my name is André Assef, i'm from Brazil(BR). My life's purpose is defined by searching for a way to help the humanity be better through technologies. 
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/andr%C3%A9-assef-261215197/)
 <!--
 **andreassef/andreassef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
