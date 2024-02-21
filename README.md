@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, I'm André Assef</h1>
 <h3 align="center">A passionate back-end developer from Brazil</h3>
 
-- 🔭 I’m currently working on [PontalTech](https://pontaltech.com.br/)
+- 🔭 I’m currently open to work
 
 - 🌱 I’m currently learning **React Native**
 
